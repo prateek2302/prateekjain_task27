@@ -27,6 +27,8 @@ npm run build
 
 The included GitHub Actions workflow builds and deploys the site when changes are pushed to `main`. In the repository's **Settings → Pages**, set the build and deployment source to **GitHub Actions** if it is not already selected.
 
+Live site: https://prateek2302.github.io/prateekjain_task27/
+
 ## Project structure
 
 ```text
